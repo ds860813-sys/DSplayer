@@ -1,0 +1,41 @@
+# Build output and IDE state
+/bin/
+/obj/
+/.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ilk
+*.ipdb
+*.iobj
+*.obj
+*.pdb
+*.tlog
+*.tmp
+*.tmp.*
+
+# Local BASS SDK, runtime libraries, and extracted documentation
+/Additions/
+/.chm-docs/
+/bass.h
+/bass.chm
+*.dll
+*.lib
+
+# Local application data
+/playlist.txt
+/playlist_1.txt
+/playlist_2.txt
+/playlist_3.txt
+/loudness.txt
+/sampler.txt
+/settings.txt
+/padvolumes.txt
+
+# Local-only documentation
+/AGENTS.md
+/THIRD_PARTY_NOTICES.md
+/zvuk_zaderzki_help.md
+/helpw.md
+

@@ -1,0 +1,8 @@
+// Player resources.
+//
+// The application icon is a play triangle. It appears in window captions
+// (small, 16/24), on the taskbar and in Alt+Tab (large, 32/48), and in the
+// DSplayer.exe file itself. player.ico contains 16, 24, 32, 48, 64, and 256 px.
+#include "resource.h"
+
+IDI_PLAYER_APP ICON "player.ico"
